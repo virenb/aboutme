@@ -19,5 +19,12 @@ p {color: #000; margin: 1rem 4rem;}
 .favs ul li a:hover {color: #808080;}
 
 .contact {background-color: #D3D3D3;}
-.contact .forms {margin: 1rem 4rem; text-align: left;}
-textarea {resize: none;}
+.forms {margin-left: 4rem;}
+button {margin-left: 4rem;}
+.forms input {width: 250px;}
+.forms div {margin-bottom: 1rem;}
+.forms {text-align: center;}
+textarea {resize: none;	width: 280px; height: 75px;}
+.contact ul {text-align: center;}
+.contact ul li {display: inline-block; margin-bottom: 2rem; }
+.contact ul li a{text-decoration: none; color: #000; }
