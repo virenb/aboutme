@@ -1,4 +1,7 @@
 * {font-family: 'Roboto', sans-serif;}
-.header {background-image: url("file:///Users/virenb/Desktop/aboutme/img/header.jpg"); padding: 10em 0;background-repeat: no-repeat;
-  background-size: cover;}
-.header h1 {padding-top: 10rem; font-size: 3rem; color: #fff; text-align: center;}
+.header {background-image: url("file:///Users/virenb/Desktop/aboutme/img/header.jpg"); color: #fff; text-align: center;
+background-repeat: no-repeat;
+  background-size: cover; padding: 6em 0;}
+.header h1 {padding-top: 10rem; padding-left: 1rem; font-size: 3rem; color: #fff; text-align: center;}
+.about h3 {font-size: 2rem; padding-top: 1rem; text-align: center;}
+.about p {color: #000; margin: 1rem 4rem; padding-bottom: 4rem;}
