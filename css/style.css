@@ -3,5 +3,17 @@
 background-repeat: no-repeat;
   background-size: cover; padding: 6em 0;}
 .header h1 {padding-top: 10rem; padding-left: 1rem; font-size: 3rem; color: #fff; text-align: center;}
-.about h3 {font-size: 2rem; padding-top: 1rem; text-align: center;}
-.about p {color: #000; margin: 1rem 4rem; padding-bottom: 4rem;}
+
+.about p {color: #000; margin: 1rem 4rem; padding-bottom: 2rem;}
+
+
+.pics {background-color: #D3D3D3;}
+.pics p {color: #000; margin: 1rem 4rem;}  
+.images {display: inline-block; margin-left: 4rem; padding-bottom: 3rem;}
+
+h3 {font-size: 2rem; padding-top: 1rem; text-align: center;}
+p {color: #000; margin: 1rem 4rem;}
+.favs ul {margin-left: 1.5rem;}
+.favs ul li {display: block; padding-bottom: 1rem;}
+.favs ul li a{text-decoration: none; color: #000; font-weight: bold;}
+.favs ul li a:hover {color: #808080;}
